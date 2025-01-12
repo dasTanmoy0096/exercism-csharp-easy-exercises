@@ -1,5 +1,3 @@
-using System;
-
 namespace gigasecond;
 
 public class Gigasecond
